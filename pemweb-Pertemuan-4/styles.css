@@ -1,0 +1,21 @@
+body {
+    font-family: Poppins, sans-serif;
+    background-color: rgb(82, 210, 210);
+}
+
+.example-two {
+  background-color: rgba(2, 92, 83, 0.451);
+  color: rgb(2, 81, 97);
+}
+
+h1 {
+    color: rgb(5, 150, 82);
+    font-size: 24px;
+}
+
+h3 {
+    color: darkblue;
+    font-size: 18px;
+}
+
+
