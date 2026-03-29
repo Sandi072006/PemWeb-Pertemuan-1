@@ -1,0 +1,73 @@
+body {
+    background-color: #1e5a57;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.card-inner {
+    background-color: #247044;
+    border-radius: 20px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.profile-name {
+    color: white;
+}
+
+.profile-bio {
+    text-align: center;
+    color: #340545;
+}
+
+.btn-group {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.btn {
+    width: 100%;
+    padding: 11px 16px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btn-white {
+    background-color: #ffffff;
+    color:#340545
+}
+
+.btn-blue {
+    background-color: #4775da;
+}
+
+.para {
+    text-align: center;
+    color: white
+}
+
+.content-image-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
